@@ -1,6 +1,6 @@
 ---
-title: 
-author:
+title: Exam 2
+author: Sydney Dempsey
 partner:
 date:
 ---
